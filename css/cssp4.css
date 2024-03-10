@@ -1,5 +1,22 @@
 h1{
     color: blue;
-    color de fon
+    background-color: rgb(255, 177, 149);
+    text-align: center;
+    text-transform: uppercase;
+}
+.areaBonita{
+    border: 1px;
+    border-radius: 5%;
+    background-color: rgb(255, 177, 149);
+    color: black;
+    height: 30px;
+    width: 350px;
+    font-size: 20px;
 
+}
+label{
+    padding-right: 10px;
+}
+body{
+    background-color: bisque;
 }
